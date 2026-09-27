@@ -1,0 +1,5 @@
+test.java
+Test.java
+*.class
+jarlib
+.DS_Store
